@@ -1,0 +1,417 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+
+
+
+
+
+
+
+
+
+#dropdown-menu-1a .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1a .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-1a .nav .link,
+#dropdown-menu-1a .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-1a .navbar,
+#dropdown-menu-1a .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-1a .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1a .dropdown-menu a:hover,
+#dropdown-menu-1a .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-1a .navbar-toggler {
+  color: #000000;
+}
+#header1-2 H1 {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#header1-2 P {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+}
+#content5-x .mbr-section-title {
+  text-align: center;
+  color: #37383e;
+  font-size: 46px;
+}
+#features1-9 H4 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#content5-19 P {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+#content5-18 .mbr-section-title {
+  text-align: center;
+  color: #37383e;
+  font-size: 48px;
+  font-family: 'Roboto', sans-serif;
+}
+#content5-18 DIV {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box3-17 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-17 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-17 .btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+#msg-box3-n .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-n .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-n .mbr-section-title {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box3-n .btn {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 22px;
+}
+#social-buttons2-2y .mbr-section-title {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+#dropdown-menu-1d .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1d .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-1d .nav .link,
+#dropdown-menu-1d .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-1d .navbar,
+#dropdown-menu-1d .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-1d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1d .dropdown-menu a:hover,
+#dropdown-menu-1d .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-1d .navbar-toggler {
+  color: #000000;
+}
+#content5-2b .mbr-section-title {
+  text-align: center;
+}
+#content5-2b P {
+  text-align: center;
+}
+#content5-2d .mbr-section-title {
+  text-align: center;
+}
+#content5-2d P {
+  text-align: center;
+}
+#content5-2d DIV {
+  text-align: center;
+}
+#msg-box3-2e .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2e .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-2e .mbr-section-title {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box3-2e .btn {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 22px;
+}
+#social-buttons2-2m .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+#dropdown-menu-1g .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1g .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-1g .nav .link,
+#dropdown-menu-1g .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-1g .navbar,
+#dropdown-menu-1g .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-1g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1g .dropdown-menu a:hover,
+#dropdown-menu-1g .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-1g .navbar-toggler {
+  color: #000000;
+}
+#content5-23 .mbr-section-title {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#content5-23 P {
+  text-align: center;
+  color: #000000;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+}
+#social-buttons2-2l .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+#dropdown-menu-1j .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1j .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-1j .nav .link,
+#dropdown-menu-1j .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-1j .navbar,
+#dropdown-menu-1j .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-1j .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1j .dropdown-menu a:hover,
+#dropdown-menu-1j .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-1j .navbar-toggler {
+  color: #000000;
+}
+#content5-24 .mbr-section-title {
+  text-align: center;
+}
+#content5-24 DIV {
+  text-align: center;
+}
+#content5-26 .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-29 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-29 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-29 .mbr-section-title {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box3-29 .btn {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 22px;
+}
+#social-buttons2-2w .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+#dropdown-menu-1m .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1m .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-1m .nav .link,
+#dropdown-menu-1m .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-1m .navbar,
+#dropdown-menu-1m .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-1m .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1m .dropdown-menu a:hover,
+#dropdown-menu-1m .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-1m .navbar-toggler {
+  color: #000000;
+}
+#content5-1t .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+  font-size: 48px;
+  font-family: 'Roboto', sans-serif;
+}
+#content5-1t DIV {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#form1-1s .mbr-section-title {
+  text-align: right;
+  color: #ffffff;
+}
+#form1-1s .btn {
+  font-size: 25px;
+}
+#content5-1u .mbr-section-title {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#content5-1u P {
+  text-align: center;
+}
+#content5-1u DIV {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+#social-buttons2-2x .mbr-section-title {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#dropdown-menu-2n .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2n .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-2n .nav .link,
+#dropdown-menu-2n .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2n .navbar,
+#dropdown-menu-2n .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2n .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2n .dropdown-menu a:hover,
+#dropdown-menu-2n .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2n .navbar-toggler {
+  color: #000000;
+}
+#social-buttons1-32 .mbr-section-title {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+#content1-31 P {
+  text-align: center;
+}
+#social-buttons2-33 .mbr-section-title {
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#dropdown-menu-3b .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-3b .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-3b .nav .link,
+#dropdown-menu-3b .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-3b .navbar,
+#dropdown-menu-3b .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-3b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-3b .dropdown-menu a:hover,
+#dropdown-menu-3b .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-3b .navbar-toggler {
+  color: #000000;
+}
+#social-buttons1-3e .mbr-section-title {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+#content1-3f P {
+  text-align: center;
+}
+#social-buttons2-3g .mbr-section-title {
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#dropdown-menu-3i .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-3i .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-3i .nav .link,
+#dropdown-menu-3i .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-3i .navbar,
+#dropdown-menu-3i .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-3i .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-3i .dropdown-menu a:hover,
+#dropdown-menu-3i .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-3i .navbar-toggler {
+  color: #000000;
+}
+#social-buttons1-3l .mbr-section-title {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+#content1-3m P {
+  text-align: center;
+}
+#social-buttons2-3n .mbr-section-title {
+  text-align: left;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
